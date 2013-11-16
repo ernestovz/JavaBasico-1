@@ -10,8 +10,8 @@ package app.clase4.practica;
  */
 public class listado {
  
-    public static void main(String[] args) {
-         Alimentos obj = new Alimentos(cereal, pollo);
+    //public static void main(String[] args) {
+      //   Alimentos obj = new Alimentos(cereal, pollo);
         
        
    
