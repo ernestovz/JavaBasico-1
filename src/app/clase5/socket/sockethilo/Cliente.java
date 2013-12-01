@@ -27,7 +27,7 @@ public class Cliente {
             System.out.println(msg);
             
             out.println("CLIENTE: Ernesto vigil zuñiga");  // envia mensaje de servidro
-            out.println("m");  // envia mensaje de servidro
+            out.println("s");  // envia mensaje de servidro
             out.println(9);
             out.println(9);
 

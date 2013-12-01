@@ -1,4 +1,4 @@
-package app.clase2.aula.animales;
+    package app.clase2.aula.animales;
 
 public abstract class Animal {
 
